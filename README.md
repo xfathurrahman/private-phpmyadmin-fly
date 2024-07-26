@@ -10,8 +10,7 @@ This guide will show you how to deploy PhpMyAdmin on Fly.io with a private Tails
 
 - A Fly.io account
 - A Tailscale account
-- A MySQL database
-
+  
 #### Setup
 
 #### 1. Create a tailscale auth key
